@@ -3,6 +3,7 @@
 # Last Modified: Febuary 5, 2019
 # Advanced Version
 # Converts seconds into hours, minutes and remander seconds
+# With 1: 34: 05 type of format instead of 1 Hrs 34 Mins 24 Secs
 
 #   Seconds input from user
 seconds = eval(input("please enter the amount of seconds: "))
